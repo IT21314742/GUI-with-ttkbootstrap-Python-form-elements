@@ -1,2 +1,2 @@
 from tkinter import *
-import ttkbootstrap as
+import ttkbootstrap as tb
