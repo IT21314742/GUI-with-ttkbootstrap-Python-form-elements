@@ -5,4 +5,4 @@ root = tb.Window(themename="superhero")
 
 #root = tk()
 root.title()("TTK Bootstrap!")
-root.iconbitmap('images/codemy.ico')
+# root.iconbitmap('images/codemy.ico')
