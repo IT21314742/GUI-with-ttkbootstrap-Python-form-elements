@@ -19,4 +19,4 @@ root.geometry('500x350')
 
 
 
-root
+root.mainloop
