@@ -25,7 +25,7 @@ my_check = tb.Checkbutton(bootstyle="primary", text="Check Me Out!", variable=va
 my_check.pack(pady=10)
 
 # Round Toggle Button
-
+var2 = IntVar()
 
 
 
