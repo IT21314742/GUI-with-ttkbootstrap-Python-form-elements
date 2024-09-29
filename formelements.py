@@ -8,7 +8,7 @@ root.title("TTK Bootstrap!")
 # root.iconbitmap('images/codemy.ico')
 root.geometry('800x550')
 
-def fname(arg):
+def checker():
     pass
 
 
