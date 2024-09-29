@@ -9,7 +9,7 @@ root.title("TTK Bootstrap!")
 root.geometry('800x550')
 
 def checker():
-    pass
+    if var1.get() == 1:
 
 
 # Label
