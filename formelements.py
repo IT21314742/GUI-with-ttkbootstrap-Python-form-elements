@@ -10,8 +10,9 @@ root.geometry('800x550')
 
 def checker():
     if var1.get() == 1:
-        my_label.config(text="checked!")
+        my_label.config(text="Checked!")
     else:
+        my_label.config(text="Unchecked!")
 
 
 # Label
