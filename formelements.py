@@ -26,7 +26,8 @@ my_check.pack(pady=10)
 
 # Round Toggle Button
 var2 = IntVar()
-my_check = tb.Checkbutton(bootstyle="danger, toolbutton", variable=var2, onvalue=1, offvalue=0, command=checker)
+my_check2 = tb.Checkbutton(bootstyle="danger, toolbutton", text="toolButton!!" variable=var2, onvalue=1, offvalue=0, command=checker)
+
 
 
 
