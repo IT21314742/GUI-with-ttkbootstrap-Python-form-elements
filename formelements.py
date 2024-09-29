@@ -41,7 +41,7 @@ my_check4.pack(pady=10)
 
 # Square Toggle Button
 var5 = IntVar()
-my_check5 = tb.Checkbutton(bootstyle="warning, square-toggle", text="")
+my_check5 = tb.Checkbutton(bootstyle="warning, square-toggle", text="square Toggle")
 
 
 
