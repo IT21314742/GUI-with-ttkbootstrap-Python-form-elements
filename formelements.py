@@ -35,6 +35,7 @@ my_check3 = tb.Checkbutton(bootstyle="info, toolbutton, outline", text="Outlined
 my_check3.pack(pady=10)
 
 # Rount Toggle Button
+var4 = IntVar
 
 
 
