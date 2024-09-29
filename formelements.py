@@ -15,6 +15,8 @@ my_label.pack(pady=(40,10))
 
 # CheckButton
 var1 = IntVar()
+my_check = tb.Checkbutton(bootstyle="primary", text="Check Me Out!")
+
 
 # Round Toggle Button
 
