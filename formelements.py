@@ -37,7 +37,7 @@ my_check3.pack(pady=10)
 # Rount Toggle Button
 var4 = IntVar()
 my_check4 = tb.tk.Checkbutton(bootstyle="success, round-toggle", text="Outlined Toolbutton!!", variable=var4, onvalue=1, offvalue=0, command=checker)
-
+my_check4
 
 # Square Toggle Button
 
