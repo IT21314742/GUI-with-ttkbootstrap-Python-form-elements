@@ -40,6 +40,7 @@ my_check4 = tb.Checkbutton(bootstyle="success, round-toggle", text="Round Toggle
 my_check4.pack(pady=10)
 
 # Square Toggle Button
+var5
 
 
 
