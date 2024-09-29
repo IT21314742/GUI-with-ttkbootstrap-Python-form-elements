@@ -41,7 +41,7 @@ my_check4.pack(pady=10)
 
 # Square Toggle Button
 var5 = IntVar()
-my_check5
+my_check5 = 
 
 
 
