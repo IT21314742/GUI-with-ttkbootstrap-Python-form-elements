@@ -10,7 +10,8 @@ root.geometry('500x350')
 
 
 # Label
-my_label = tk.Label(root, text="Click the checkbox below if you are not robot", font=("Poppins", 30))
+my_label = tb.Label(root, text="Click the checkbox below if you are not robot", font=("Poppins", 20))
+my_label.pack(pady=(40,10))
 
 # CheckButton
 
