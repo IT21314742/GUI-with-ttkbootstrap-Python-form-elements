@@ -30,8 +30,6 @@ my_check2 = tb.Checkbutton(bootstyle="danger, toolbutton", text="toolButton!!" v
 my_check2.pack(pady=10)
 
 
-
-
 # Square Toggle Button
 
 
