@@ -24,10 +24,18 @@ var1 = IntVar()
 my_check = tb.Checkbutton(bootstyle="primary", text="Check Me Out!", variable=var1, onvalue=1, offvalue=0, command=checker )
 my_check.pack(pady=10)
 
-# Round Toggle Button
+# Round ToolButton
 var2 = IntVar()
 my_check2 = tb.Checkbutton(bootstyle="danger, toolbutton", text="toolButton!!", variable=var2, onvalue=1, offvalue=0, command=checker)
 my_check2.pack(pady=10)
+
+# Round ToolButton
+var2 = IntVar()
+my_check2 = tb.Checkbutton(bootstyle="danger, toolbutton", text="toolButton!!", variable=var2, onvalue=1, offvalue=0, command=checker)
+my_check2.pack(pady=10)
+
+
+
 
 
 # Square Toggle Button
